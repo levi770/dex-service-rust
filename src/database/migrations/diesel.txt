@@ -1,0 +1,4 @@
+diesel setup
+diesel migration generate name
+diesel migration run
+diesel migration redo
