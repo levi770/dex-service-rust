@@ -1,5 +1,5 @@
 [package]
-name = "core-server-web3"
+name = "dex-service"
 version = "0.1.0"
 edition = "2021"
 
